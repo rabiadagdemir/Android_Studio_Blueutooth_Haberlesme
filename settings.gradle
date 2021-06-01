@@ -1,0 +1,2 @@
+rootProject.name = "Rabia_Rc_Arac"
+include ':app'
